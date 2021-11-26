@@ -1,5 +1,10 @@
 /* styles.css */
 
+body {
+    font-family: Helvetica, Arial, sans-serif;
+    width: 700px;
+}
+
 img {
     height: auto;
     width: 500px;
